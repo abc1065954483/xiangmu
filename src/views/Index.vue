@@ -1,7 +1,6 @@
 <template>
-  <div class="vue">
-
-    <router-view></router-view>
+  <div class="index">
+      首页66666666666666666666666666666
   </div>
 </template>
 
