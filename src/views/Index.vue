@@ -1,6 +1,7 @@
 <template>
   <div class="index">
-      首页66666666666666666666666666666
+      首页页面
+      <p>666</p>
   </div>
 </template>
 
