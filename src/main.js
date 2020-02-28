@@ -1,8 +1,11 @@
 import Vue from 'vue'
 import App from '@/App.vue'
-// import App from '@/components/index222.vue'
-// import App from '@/components/组件封装的使用.vue'
+import Vant from 'vant'
+import 'vant/lib/index.css'
+import '@/style/reset.css'
 import router from '@/router/index.js'
+
+Vue.use(Vant)
 Vue.config.productionTip = false
 
 new Vue({
